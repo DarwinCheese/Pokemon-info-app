@@ -3,6 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Model/PokemonTrainer.java</file>
+            <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Model/PokemonMove.java</file>
+            <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Model/PokemonTypeFactory.java</file>
+            <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Model/PokemonType.java</file>
+            <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Model/Pokemon.java</file>
+            <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Model/CartoonFigure.java</file>
+            <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Model/PokemonMoveFactory.java</file>
+            <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Model/PokemonFactory.java</file>
             <file>file:/C:/dev/Netbeansprojects/Pokemon-info-app/src/Controller/FXMLDocumentController.java</file>
         </group>
     </open-files>

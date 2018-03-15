@@ -13,7 +13,7 @@ import java.util.Map;
  * @author Laptop10
  */
 public class PokemonMoveFactory {
-    Map<String, PokemonMove> moves = new HashMap<String, PokemonMove>();
+    private Map<String, PokemonMove> moves = new HashMap<String, PokemonMove>();
     
     public Map<String, PokemonMove> getMoves(){
         PokemonMove Flamethrower = new PokemonMove("Flamethrower", "Beam of flames", "Fire", 90);

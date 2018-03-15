@@ -13,9 +13,7 @@ public class PokemonTrainer extends CartoonFigure{
     private String name;
     private int badges;
     private Pokemon pokemon;
-    //private ArrayList<Pokemon> pokemons;
     private char gender;
-    //private ArrayList<PokemonItem> items;
 
     public PokemonTrainer(String name, int badges, char gender) {
         this.name = name;

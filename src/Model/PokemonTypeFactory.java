@@ -13,7 +13,7 @@ import java.util.Map;
  * @author Laptop10
  */
 public class PokemonTypeFactory {
-    Map<String, PokemonType> types = new HashMap<String, PokemonType>();
+    private Map<String, PokemonType> types = new HashMap<String, PokemonType>();
     
     public Map<String, PokemonType> getTypes(){
         PokemonType normal = new PokemonType("Normal");
