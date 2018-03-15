@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="656.0" prefWidth="865.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.FXMLDocumentController">
+    <children>
+      <Label fx:id="label2" layoutX="346.0" layoutY="29.0" minHeight="16" minWidth="69" text="Pokemon Info Application" />
+      <ListView fx:id="pokemonListView" layoutX="42.0" layoutY="105.0" prefHeight="382.0" prefWidth="243.0" />
+      <Label fx:id="pokemonNameLabel" layoutX="555.0" layoutY="105.0" />
+      <Label fx:id="pokemonTypeLabel" layoutX="555.0" layoutY="138.0" />
+      <Label fx:id="pokemonMoveLabel" layoutX="555.0" layoutY="169.0" />
+      <Label fx:id="pokemonNameLabel1" layoutX="415.0" layoutY="105.0" text="Pokemon Name:" />
+      <Label fx:id="pokemonNameLabel11" layoutX="415.0" layoutY="138.0" text="Type:" />
+      <Label fx:id="pokemonNameLabel111" layoutX="415.0" layoutY="169.0" text="Move:" />
+      <Label layoutX="96.0" layoutY="75.0" text="Click on a Pokemon:" />
+    </children>
+</AnchorPane>
